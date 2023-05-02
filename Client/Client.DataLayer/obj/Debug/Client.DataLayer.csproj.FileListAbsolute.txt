@@ -1,0 +1,5 @@
+C:\Users\Nazari\Desktop\DataBase\Client\Client.DataLayer\bin\Debug\Client.DataLayer.dll
+C:\Users\Nazari\Desktop\DataBase\Client\Client.DataLayer\bin\Debug\Client.DataLayer.pdb
+C:\Users\Nazari\Desktop\DataBase\Client\Client.DataLayer\obj\Debug\Client.DataLayer.dll
+C:\Users\Nazari\Desktop\DataBase\Client\Client.DataLayer\obj\Debug\Client.DataLayer.pdb
+C:\Users\Nazari\Desktop\DataBase\Client\Client.DataLayer\obj\Debug\Client.DataLayer.csprojResolveAssemblyReference.cache

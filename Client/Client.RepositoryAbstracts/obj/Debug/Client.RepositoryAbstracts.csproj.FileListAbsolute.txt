@@ -1,0 +1,9 @@
+C:\Users\Nazari\Desktop\DataBase\Client\Client.RepositoryAbstracts\bin\Debug\Client.RepositoryAbstracts.dll
+C:\Users\Nazari\Desktop\DataBase\Client\Client.RepositoryAbstracts\bin\Debug\Client.RepositoryAbstracts.pdb
+C:\Users\Nazari\Desktop\DataBase\Client\Client.RepositoryAbstracts\bin\Debug\Client.DataLayer.dll
+C:\Users\Nazari\Desktop\DataBase\Client\Client.RepositoryAbstracts\bin\Debug\Client.Entities.dll
+C:\Users\Nazari\Desktop\DataBase\Client\Client.RepositoryAbstracts\bin\Debug\Client.DataLayer.pdb
+C:\Users\Nazari\Desktop\DataBase\Client\Client.RepositoryAbstracts\bin\Debug\Client.Entities.pdb
+C:\Users\Nazari\Desktop\DataBase\Client\Client.RepositoryAbstracts\obj\Debug\Client.RepositoryAbstracts.csprojResolveAssemblyReference.cache
+C:\Users\Nazari\Desktop\DataBase\Client\Client.RepositoryAbstracts\obj\Debug\Client.RepositoryAbstracts.dll
+C:\Users\Nazari\Desktop\DataBase\Client\Client.RepositoryAbstracts\obj\Debug\Client.RepositoryAbstracts.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Entities\bin\Debug\Client.Entities.dll
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Entities\bin\Debug\Client.Entities.pdb
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Entities\bin\Debug\Client.DataLayer.dll
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Entities\bin\Debug\Client.DataLayer.pdb
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Entities\obj\Debug\Client.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Entities\obj\Debug\Client.Entities.dll
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Entities\obj\Debug\Client.Entities.pdb

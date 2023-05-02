@@ -1,0 +1,15 @@
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Framework\bin\Debug\Client.Framework.dll
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Framework\bin\Debug\Client.Framework.pdb
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Framework\obj\Debug\Client.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Framework\obj\Debug\Client.Framework.MainFormBase.resources
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Framework\obj\Debug\Client.Framework.csproj.GenerateResource.Cache
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Framework\obj\Debug\Client.Framework.dll
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Framework\obj\Debug\Client.Framework.pdb
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Framework\obj\Debug\Client.Framework.Dropdwon.resources
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Framework\obj\Debug\Client.Framework.dateTimePiker1.resources
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Framework\bin\Debug\Client.DataLayer.dll
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Framework\bin\Debug\Client.Entities.dll
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Framework\bin\Debug\Client.DataLayer.pdb
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Framework\bin\Debug\Client.Entities.pdb
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Framework\bin\Debug\Client.RepositoryAbstracts.dll
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Framework\bin\Debug\Client.RepositoryAbstracts.pdb

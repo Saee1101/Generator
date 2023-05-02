@@ -1,0 +1,8 @@
+C:\Users\Nazari\Desktop\DataBase\Client\Clinent.Test\bin\Debug\Clinent.Test.exe.config
+C:\Users\Nazari\Desktop\DataBase\Client\Clinent.Test\bin\Debug\Clinent.Test.exe
+C:\Users\Nazari\Desktop\DataBase\Client\Clinent.Test\bin\Debug\Clinent.Test.pdb
+C:\Users\Nazari\Desktop\DataBase\Client\Clinent.Test\obj\Debug\Clinent.Test.csprojResolveAssemblyReference.cache
+C:\Users\Nazari\Desktop\DataBase\Client\Clinent.Test\obj\Debug\Clinent.Test.Properties.Resources.resources
+C:\Users\Nazari\Desktop\DataBase\Client\Clinent.Test\obj\Debug\Clinent.Test.csproj.GenerateResource.Cache
+C:\Users\Nazari\Desktop\DataBase\Client\Clinent.Test\obj\Debug\Clinent.Test.exe
+C:\Users\Nazari\Desktop\DataBase\Client\Clinent.Test\obj\Debug\Clinent.Test.pdb

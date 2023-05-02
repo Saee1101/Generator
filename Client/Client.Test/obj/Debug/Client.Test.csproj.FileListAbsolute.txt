@@ -1,0 +1,15 @@
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Test\bin\Debug\Client.Test.exe.config
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Test\bin\Debug\Client.Test.exe
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Test\bin\Debug\Client.Test.pdb
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Test\bin\Debug\Client.Entities.dll
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Test\bin\Debug\Client.DataLayer.dll
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Test\bin\Debug\Client.Entities.pdb
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Test\bin\Debug\Client.DataLayer.pdb
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Test\obj\Debug\Client.Test.csprojResolveAssemblyReference.cache
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Test\obj\Debug\Client.Test.Properties.Resources.resources
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Test\obj\Debug\Client.Test.csproj.GenerateResource.Cache
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Test\obj\Debug\Client.Test.exe
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Test\obj\Debug\Client.Test.pdb
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Test\obj\Debug\Client.Test.Form1.resources
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Test\bin\Debug\StructureMap.dll
+C:\Users\Nazari\Desktop\DataBase\Client\Client.Test\bin\Debug\StructureMap.xml

@@ -1,0 +1,9 @@
+C:\Users\Nazari\Desktop\DataBase\DbClassGenerator\DbClassGenerator\bin\Debug\DbClassGenerator.exe.config
+C:\Users\Nazari\Desktop\DataBase\DbClassGenerator\DbClassGenerator\obj\Debug\DbClassGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Nazari\Desktop\DataBase\DbClassGenerator\DbClassGenerator\obj\Debug\DbClassGenerator.Form1.resources
+C:\Users\Nazari\Desktop\DataBase\DbClassGenerator\DbClassGenerator\obj\Debug\DbClassGenerator.Properties.Resources.resources
+C:\Users\Nazari\Desktop\DataBase\DbClassGenerator\DbClassGenerator\obj\Debug\DbClassGenerator.csproj.GenerateResource.Cache
+C:\Users\Nazari\Desktop\DataBase\DbClassGenerator\DbClassGenerator\bin\Debug\DbClassGenerator.exe
+C:\Users\Nazari\Desktop\DataBase\DbClassGenerator\DbClassGenerator\bin\Debug\DbClassGenerator.pdb
+C:\Users\Nazari\Desktop\DataBase\DbClassGenerator\DbClassGenerator\obj\Debug\DbClassGenerator.exe
+C:\Users\Nazari\Desktop\DataBase\DbClassGenerator\DbClassGenerator\obj\Debug\DbClassGenerator.pdb
